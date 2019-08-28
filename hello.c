@@ -12,13 +12,17 @@ int main(int argc, char **argv) {
 
   printf("Boyang Hu!\n");
   printf("Computer Engineering");
-  
+
   printf("Bryan!\n");
   printf("Computer Science");
-  
+
   printf("Bryan Second!\n");
   printf("Computer Science Major");
-  
+
+
+  printf("Boyang Hu Second!\n");
+  printf("Computer Engineering Major");
+
 
 
   return 0;
